@@ -13,7 +13,7 @@ Source: https://stackoverflow.com/questions/64707941/i-keep-getting-an-error-tha
 Source: https://www.techonthenet.com/excel/formulas/format_string.php
 
 +' LastRowTicker = ws.Cells(Rows.Count, 9).End(xlUp).Row ' &  ' Dim LastRowTicker As Long '
-Source: **See screenshot attached with a dialog in Slack w/ peer**
+Source: **See screenshot in repository with a dialog in Slack w/ peer**
 
 +'  ws.Cells(TickerCount, 12).Value = WorksheetFunction.Sum(Range(ws.Cells(y, 7), ws.Cells(x, 7))) '
 Source: https://www.automateexcel.com/vba/sum-function/
